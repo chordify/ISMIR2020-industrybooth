@@ -8,10 +8,9 @@ summary: A virtual booth for our sponsors' content
 ---
 
 # Chordify
+During ISMIR 2013 in Porto, Portugal, Bas de Haas presented the beta-version of a service that used to the power of Music Information Retrieval technology to give musicians the chords for any song in the blink of an eye. Only a few months later [chordify.net](https://chordify.net/) launched. Since then, CHordify has evolved into a thriving company with millions of users every month.
 
-This is where I believe we can put in some more generic info text about Chordify.
-
-![](https://cdn.dribbble.com/users/24775/screenshots/3734542/chordify.png)
+![](https://d21buns5ku92am.cloudfront.net/46049/images/342317-chordify%20logo%20green-69c230-original-1579011985.png)
 
 ## Research
 At Chordify, we bring applied MIR research to millions of musicians around the world. Our products ([chordify.net](https://chordify.net/) and [KARANG](https://karang.app/)) are built on MIR algorithms for
@@ -38,4 +37,4 @@ Journal of New Music Research 48(3), 2019
 Proceedings of the 20th International Society for Music Information Retrieval Conference, 2019
 
 ## Internship Opportunity
-If you are interested in doing a (remote) internship with us to conduct joint research in one of the fields listed above, please reach out to Jonathan Driedger at [jonathan@chordify.net](mailto:jonathan@chordify.net) to discuss opportunities.
+If you are interested in doing a (remote) internship with us to conduct joint research in one of the fields listed above, please reach out to Jonathan Driedger at [jonathan@chordify.net](mailto:jonathan@chordify.net) to discuss opportunities. We are looking forward to hearing from you!
