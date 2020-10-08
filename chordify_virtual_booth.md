@@ -9,6 +9,7 @@ summary: A virtual booth for our sponsors' content
 
 # Chordify
 During ISMIR 2013 in Porto, Portugal, Bas de Haas presented the beta-version of a service that used to the power of Music Information Retrieval technology to give musicians the chords for any song in the blink of an eye. Only a few months later the service was officially launched under the name of [Chordify](https://chordify.net/). Since then, Chordify has evolved into a thriving company with about 40 employed music enthusiasts and millions of users every month.
+
 ![](https://d21buns5ku92am.cloudfront.net/46049/images/342317-chordify%20logo%20green-69c230-original-1579011985.png)
 
 ## Research
