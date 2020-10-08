@@ -23,6 +23,7 @@ At Chordify, we bring applied MIR research to millions of musicians around the w
 - Music Recommendation
 - Music Auto-Tagging
 - Real-time Monophonic and Polyphonic F0-Estimation
+
 and more. We develop and implement most of our technology in-house
 
 ## Recent Publications
@@ -36,5 +37,5 @@ Journal of New Music Research 48(3), 2019
 *Jonathan Driedger, Hendrik Schreiber, W. Bas de Haas, and Meinard Müller*\
 Proceedings of the 20th International Society for Music Information Retrieval Conference, 2019
 
-
-For additional information, please contact Jonathan Driedger at [jonathan@chordify.net](mailto:jonathan@chordify.net)
+## Internship Opportunity
+If you are interested in doing a (remote) internship with us to conduct joint research in one of the fields listed above, please reach out to Jonathan Driedger at [jonathan@chordify.net](mailto:jonathan@chordify.net) to discuss opportunities.
