@@ -23,7 +23,18 @@ At Chordify, we bring applied MIR research to millions of musicians around the w
 - Music Recommendation
 - Music Auto-Tagging
 - Real-time Monophonic and Polyphonic F0-Estimation
-and more.
+and more. We develop and implement most of our technology in-house
+
+## Recent Publications
+We know that without the scientific MIR community we could not have built Chordify. We therefore actively aim to contrubute to the community as well. Recent publications in which Chordify was actively involved in include
+
+**[Annotator Subjectivity in Harmony Annotations of Popular Music](https://github.com/chordify/CASD)**\
+*Hendrik Vincent Koops, W. Bas de Haas, John Ashley Burgoyne, Jeroen Bransen, Anna Kent-Muller, Anja Volk*\
+Journal of New Music Research 48(3), 2019
+
+**[Towards Automatically Correcting Tapped Beat Annotations for Music Recordings](https://github.com/chordify/tapcorrect)**\
+*Jonathan Driedger, Hendrik Schreiber, W. Bas de Haas, and Meinard Müller*\
+Proceedings of the 20th International Society for Music Information Retrieval Conference, 2019
 
 
 For additional information, please contact Jonathan Driedger at [jonathan@chordify.net](mailto:jonathan@chordify.net)
