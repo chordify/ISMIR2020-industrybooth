@@ -36,5 +36,5 @@ Journal of New Music Research 48(3), 2019
 *Jonathan Driedger, Hendrik Schreiber, W. Bas de Haas, and Meinard Müller*\
 Proceedings of the 20th International Society for Music Information Retrieval Conference, 2019
 
-## Internship Opportunity
-If you are interested in doing a (remote) internship with us to conduct joint research in one of the fields listed above, please reach out to Jonathan Driedger at [jonathan@chordify.net](mailto:jonathan@chordify.net) to discuss opportunities. We are looking forward to hearing from you!
+## Collaboration Opportunity
+If you are interested in doing a (remote) research stay, internship, PhD- or Masters project with us to conduct joint research in one of the fields listed above, please reach out to Jonathan Driedger at [jonathan@chordify.net](mailto:jonathan@chordify.net) to discuss opportunities. We are looking forward to hearing from you!
