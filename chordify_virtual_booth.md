@@ -23,7 +23,7 @@ At Chordify, we bring applied MIR research to millions of musicians around the w
 - Music Auto-Tagging
 - Real-time Monophonic and Polyphonic F0-Estimation
 
-and more. We develop and implement most of our technology in-house
+and more. We develop and implement most of our technology in-house.
 
 ## Recent Publications
 We know that without the scientific MIR community we could not have built Chordify. We therefore actively aim to contrubute to the community as well. Recent publications in which Chordify was actively involved in include
